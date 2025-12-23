@@ -20,9 +20,6 @@
     <a href="https://codeforces.com/profile/autn2643">
       <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     </a>
-    <a href="https://utkarshpatel7356.github.io/My-Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
-    </a>
   </p>
 </div>
 
@@ -30,7 +27,7 @@
 
 ### 🏆 Key Achievements
 * 🥇 **Global Winner:** IEEE VIP Cup 2024 (Rank 1 globally for Retinal OCT Image Classification).
-* 🧠 **Codeforces Expert:** Max rating `1627` (Handle: [autn2643](https://codeforces.com/profile/autn2643)).
+* 🧠 **Codeforces Expert:** Max rating `1650` (Handle: [autn2643](https://codeforces.com/profile/autn2643)).
 * 🏆 **1st Place:** Advitiya Coding Competition 2025 (IIT Ropar).
 * 💼 **Experience:** Incoming Analyst at **JP Morgan** (CRG & TTT Intern).
 
