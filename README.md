@@ -54,26 +54,3 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
-
-<div align="center">
-  <a href="https://github.com/utkarshpatel7356">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshpatel7356&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/utkarshpatel7356">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpatel7356&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://codeforces.com/profile/autn2643">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=autn2643&theme=tokyonight" alt="Codeforces Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpatel7356&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
