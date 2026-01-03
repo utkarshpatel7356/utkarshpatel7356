@@ -2,7 +2,7 @@
 
   # Hi there, I'm Utkarsh Patel! 👋
   
-  ### 🎓 B.Tech CSE @ IIT Ropar | 💻 Codeforces Expert | 🏦 Incoming Analyst @ JP Morgan
+  ### 🎓 B.Tech CSE @ IIT Ropar | 💻 Codeforces Expert | 🏦 Incoming FTE @ JP Morgan
   
   <p>
     I am a final-year Computer Science undergraduate passionate about <strong>Distributed Systems</strong>, <strong>Quantitative Finance</strong>, and <strong>Deep Learning</strong>. 
@@ -29,7 +29,7 @@
 * 🥇 **Global Winner:** IEEE VIP Cup 2024 (Rank 1 globally for Retinal OCT Image Classification).
 * 🧠 **Codeforces Expert:** Max rating `1650` (Handle: [autn2643](https://codeforces.com/profile/autn2643)).
 * 🏆 **1st Place:** Advitiya Coding Competition 2025 (IIT Ropar).
-* 💼 **Experience:** Incoming Analyst at **JP Morgan** (CRG & TTT Intern).
+* 💼 **Experience:** Incoming FTE at **JP Morgan** (CRG & TTT Intern).
 
 ---
 
